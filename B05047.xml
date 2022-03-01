@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Royall entertainment, presented by the loyalty of the city, to the royalty of their soveraign, on Thursday the fourth of July 1660. When the city of London invited his Majesty, the Duke of York, the Duke of Glocester, and their royall retinue, to a feast in the Guild-hall, London, to which the King was conducted by the chiefest of the city companies on horse-back, entertained by the Lord Mayor, aldermen, and Common-Counsill, guarded from White-hall to Guild-hall by the artillery-men, led by the illustrious James duke of York; met by diverse pageants, with sundry devices, and the livery attending in [the]ir order. The hall was richly appointed with costly hangings, the floores raised, organs erected [wit]h all sorts of Musick, performed by the ablest masters in England, with all varieties that art, plen[...], and curiosity can present, to the tune of Packingtons pound.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05047</idno>
+            <idno type="STC">Wing R2127A</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[7]</idno>
+            <idno type="EEBO-CITATION">99887532</idno>
+            <idno type="PROQUEST">ocm99887532</idno>
+            <idno type="VID">182265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182265)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Royall entertainment, presented by the loyalty of the city, to the royalty of their soveraign, on Thursday the fourth of July 1660. When the city of London invited his Majesty, the Duke of York, the Duke of Glocester, and their royall retinue, to a feast in the Guild-hall, London, to which the King was conducted by the chiefest of the city companies on horse-back, entertained by the Lord Mayor, aldermen, and Common-Counsill, guarded from White-hall to Guild-hall by the artillery-men, led by the illustrious James duke of York; met by diverse pageants, with sundry devices, and the livery attending in [the]ir order. The hall was richly appointed with costly hangings, the floores raised, organs erected [wit]h all sorts of Musick, performed by the ablest masters in England, with all varieties that art, plen[...], and curiosity can present, to the tune of Packingtons pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Grove on Snow-[Hill],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Verse: "My pen and my fancy shall never give o're ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>At head of second part: The second part, to the same tune; at foot of second part: Entred according to order.</note>
+                  <note>L copy at BR f 821.04 B49(7), mutilated, affecting title, text, and imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182265:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>The Royall Entertainment, Preſented by the Loyalty of the City, to the Royalty of their Soveraign, on <date>Thurſday the fourth of July 1660.</date>
+            </head>
+            <argument>
+               <p>When the City of London invited his Majeſty, the Duke of York, the Duke of Gloceſter, and their Royall Retinue, to a Feaſt in the Guild-hall, London, to which the King was conducted by the chiefeſt of the City Companies on Horſe-back, entertained by the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Counſill, Guarded from White-hall to Guild-hall by the Artillery-men, led by the Illuſtrious <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames Duke of York; met by diverſe Pageants, with ſundry devices, and the Livery attending in <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir Order. The Hall was richly appointed with coſtly Hangings, the Floores raiſed, Organs erected <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th all ſorts of Muſick, performed by the Ableſt Maſters in England, with all Varieties that Art, Plen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and Curioſity can preſent,</p>
+            </argument>
+            <opener>To the Tune of Packingtons pound.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>blazon or coat of arms</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>MY pen and my fancy ſhall never give o're,</l>
+                  <l>to write of y<hi rend="sup">t</hi> triumphs which <hi>Providence</hi> brings</l>
+                  <l>Such glory and gladneſſe was ne'r known before,</l>
+                  <l>from <hi>William</hi> quite thorow the reign of the Kings.</l>
+                  <l>our ſorrow and grief</l>
+                  <l>is turn'd to releif,</l>
+                  <l>and comfort is now a Commander in chief.</l>
+                  <l>As manifeſtly will appear in this ditty:</l>
+                  <l>When <hi>London</hi> invited the King to the City.</l>
+               </lg>
+               <lg>
+                  <l>Which was ſo performed with honour and glory.</l>
+                  <l>with Order and Gallantry, Fréedom and Mirth.</l>
+                  <l>The like I preſume hath béen ſcarce ſéen in ſtory:</l>
+                  <l>or ever was known ſince the oldeſt mans birth.</l>
+                  <l>ſweet pleaſures divine,</l>
+                  <l>in all eyes did ſhine,</l>
+                  <l>our God hath converted our water t<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wine.</l>
+                  <l>All things that were Excellent Pleaſant and pritty</l>
+                  <l>Were ſhewn to the King when he came to the City.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Guild-hall</hi> was prepared with coſtly expence,</l>
+                  <l>and alter'd to entertain this Kingly gueſt,</l>
+                  <l>Where with all variety every ſenſe</l>
+                  <l>was courted with plenty at this Royall Feaſt,</l>
+                  <l>invention and ſtate,</l>
+                  <l>upon him did wait,</l>
+                  <l>the City and Suburbs with people were fraught,</l>
+                  <l>And no kind of joy that was worthy or witty,</l>
+                  <l>Was wanting to welcome the King to the City.</l>
+               </lg>
+               <lg>
+                  <l>With habits compleat and with hearts light as cork</l>
+                  <l>Lord <hi>Lucas</hi> conducted th' Artillery men</l>
+                  <l>To <hi>White-hall</hi> to wait upon <hi>James</hi> Duke of York,</l>
+                  <l>who led them all into the City again,</l>
+                  <l>they guarded our King</l>
+                  <l>from every thing</l>
+                  <l>of dangers that might from conſpiracy ſpring</l>
+                  <l>With loud acclamations both pleaſant and pretty</l>
+                  <l>The King was conducted with joy to the City.</l>
+               </lg>
+               <lg>
+                  <l>The Chiefs of the Companies gallantly mounted</l>
+                  <l>with Lackeys in Liveries attending in State</l>
+                  <l>Did ſhew very famous, and ſo were accounted</l>
+                  <l>who did to <hi>Guild-hall</hi> on his Majeſty wait</l>
+                  <l>the Livery in order</l>
+                  <l>did ſtand like a border</l>
+                  <l>the Lord Mayor, the Aldermen, and the Recorder</l>
+                  <l>With all the magnificence fancy can fit yee</l>
+                  <l>Did royally welcome the King to the City.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe King was contented, and very well pleaſ'd</l>
+                  <l>as by his moſt gracious reſpects did appear</l>
+                  <l>To ſée his good people his heart was well eaſ'd,</l>
+                  <l>for ſurely hée holdeth the City moſt dear</l>
+                  <l>Not like the Rump-States,</l>
+                  <l>which threw down the Gates</l>
+                  <l>Or like to <hi>Jack Hewſon,</hi> the Cobler <unclear>ant's</unclear> Mates,</l>
+                  <l>Or any fal'e Powers that were lowzie and nitty</l>
+                  <l>Who aim'd to demoliſh the Charter oth' City.</l>
+               </lg>
+               <lg>
+                  <l>With fingers and voices the chiefeſt that were</l>
+                  <l>with loud and ſoft muſick did make the Hall ring</l>
+                  <l>That Science did in its beſt glory appear,</l>
+                  <l>and was only fit for to welcome a King</l>
+                  <l>with voices renown's</l>
+                  <l>the Banquets were crown'd</l>
+                  <l>in Cathedral manner the Organs did ſound</l>
+                  <l>All ſorts of Invention, both wondrous and witty</l>
+                  <l>Were fitted to welcome the King to the City.</l>
+               </lg>
+               <lg>
+                  <l>Pageants did there in their glory appear</l>
+                  <l>the figures did ſeem all alive as it were,</l>
+                  <l>In ſilver and gold they did ſhine very neer,</l>
+                  <l>as bright as the Sun when the day doth ſhi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e clear</l>
+                  <l>the Conduits did ſhine</l>
+                  <l>with Liquor divine</l>
+                  <l>The people did bear away hats full of wine</l>
+                  <l>To run down the ſtreets it was very great pity</l>
+                  <l>And thus was the King entertain'd in the City.</l>
+               </lg>
+               <lg>
+                  <l>The rooms with rich hangings were brightly attir'd</l>
+                  <l>the Air ſmelt of nothing but coſtly per<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umes</l>
+                  <l>As if the whole world at that time had conſpir'd</l>
+                  <l>to throw all varieties into the rooms</l>
+                  <l>the King ſate in State</l>
+                  <l>the City did wait</l>
+                  <l>the Hall did abound in all manner of Plate,</l>
+                  <l>As if they would tell him Great <hi>Caeſar</hi> wee'l ſit yee</l>
+                  <l>With all the choice Treaſures belongs to the City</l>
+               </lg>
+               <lg>
+                  <l>The plenty of food which was there at the Feaſt</l>
+                  <l>with fleſh, fiſh and fowl, and rare kick ſhaws a<g ref="char:EOLhyphen"/>mong</l>
+                  <l>In ſuch a ſmall ditty can nere be expreſt</l>
+                  <l>they cannot be marſhall'd all up in a ſong</l>
+                  <l>the Cooks art was great</l>
+                  <l>and pallat was neat</l>
+                  <l>the Paſtry appear'd in its order compleat</l>
+                  <l>What ever was curious, novelty or witty</l>
+                  <l>Attended the King in the love of the City.</l>
+               </lg>
+               <lg>
+                  <l>The Earth and the Air, and the water conſpir'd</l>
+                  <l>to ſhew all the plenty the Kingdome could yeeld</l>
+                  <l>It can't be expreſt, but may well be admir'd</l>
+                  <l>the diſhes ſtood thicker than flowers in the field</l>
+                  <l>a friend of mine vow'd</l>
+                  <l>that ſtood in the crowd</l>
+                  <l>hee ſée a large Banquet let down in a cloud</l>
+                  <l>Which néeds muſt appear very pleaſant and pretty</l>
+                  <l>Unto the beholders the King and the City.</l>
+               </lg>
+               <lg>
+                  <l>With fréedome and honour, and ſafety and love</l>
+                  <l>the King ſpent the day, then to <hi>Whitehall</hi> he went</l>
+                  <l>May all the choice bleſſings which God hath above</l>
+                  <l>fall on his head daily to crown his content</l>
+                  <l>may plenty and peace</l>
+                  <l>and union increaſe</l>
+                  <l>may Amity live, and may enmity ceaſe</l>
+                  <l>May God in his mercy love, favour and pity,</l>
+                  <l>And never divide the good King and the City.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>Francis Grove</hi> on Snow Entred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
